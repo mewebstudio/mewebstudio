@@ -1,5 +1,11 @@
-<h5 align="center">Hi 👋, I'm Muharrem</h5>
-<h6 align="center">A full stack developer from Turkey.</h3>
+<div align="center">
+    <p>
+        <strong>Hi 👋, I'm Muharrem</strong>
+    </p>
+    <p>
+        <samp>A full stack developer from Turkey.</samp>
+    </p>
+</div>
 
 <details align="center">
 <summary>
